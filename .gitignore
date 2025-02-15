@@ -1,0 +1,14 @@
+/Archive
+/gerberFiles
+*.kicad_pcb*
+*-bak
+*.txt
+*.lib
+*.svg
+*.net
+*.pro
+*.dcm
+*.sch
+*.xml
+fp-info-cache
+sym-lib-table
